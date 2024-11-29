@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "data": {
+      "bestHomeTeamPlayer": {
+        "value": "8.3",
+        "label": "rating",
+        "player": {
+          "name": "Kevin De Bruyne",
+          "slug": "kevin-de-bruyne",
+          "shortName": "K. De Bruyne",
+          "position": "M",
+          "jerseyNumber": "17",
+          "height": 181,
+          "userCount": 308136,
+          "id": 70996,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 678067200,
+          "proposedMarketValueRaw": {
+            "value": 47000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دي بروين, كيفين"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. د. بروين"
+            }
+          }
+        }
+      },
+      "bestAwayTeamPlayer": {
+        "value": "9.7",
+        "label": "rating",
+        "player": {
+          "name": "Andriy Lunin",
+          "slug": "andriy-lunin",
+          "shortName": "A. Lunin",
+          "position": "G",
+          "jerseyNumber": "13",
+          "height": 191,
+          "userCount": 53714,
+          "id": 857574,
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 918691200,
+          "proposedMarketValueRaw": {
+            "value": 23000000,
+            "currency": "EUR"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لونين, أندريه"
+            },
+            "shortNameTranslation": {
+              "ar": "أ. لونين"
+            }
+          }
+        }
+      }
+    }
+  }

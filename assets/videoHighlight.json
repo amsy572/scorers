@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": {
+      "highlights": [
+        {
+          "title": "Valencia 1-2 Barcelona",
+          "subtitle": "Full Highlights",
+          "url": "https://www.youtube.com/watch?v=g_pkrMjN79M",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g_pkrMjN79M/hqdefault.jpg",
+          "mediaType": 6,
+          "doFollow": false,
+          "keyHighlight": true,
+          "id": 5800551,
+          "createdAtTimestamp": 1723931648,
+          "sourceUrl": "https://www.youtube.com/watch?v=g_pkrMjN79M"
+        }
+      ]
+    }
+  }
